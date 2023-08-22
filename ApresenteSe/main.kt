@@ -3,5 +3,5 @@ fun main() {
     val capacidade = 5.2f
     val inicial = "2"
 
-    printl("O nome do grupo é $nome, a capacidade é $capacidade")
+    printl("O nome do grupo é $nome, a capacidade é $capacidade e a inicial é $inicial")
 }
